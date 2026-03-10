@@ -1,25 +1,8 @@
 ## Hi, I am Mohammad Al-Aishat 👋
-- 👨‍💻 Mobile Developer with 2+ years of experience in Android (Kotlin) and Flutter. 
-- 🔭 Delivered apps in real estate, sports, medical, and e-commerce. 
-- 🌱 Passionate about clean code, clean architecture, and continuous learning.
-- 📫 How to reach me: [alaishatmohammad@gmail.com](alaishatmohammad@gmail.com)
-- ⚡ Fun fact: I’m a bit of a perfectionist — always chasing the perfect solution.
-    
-#
-<!--![MyState](https://github-readme-stats.vercel.app/api?username=MohammadMarwan2005&show_icons=true&theme=gotham&hide=contribs,issues) -->  
-![MyState](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMarwan2005&theme=default&hide_progress=true&theme=gotham)
 
-<!--
-**MohammadMarwan2005/MohammadMarwan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👨‍💻 **Mobile Developer** with 2+ years of experience in Android (Kotlin) and Flutter.
+* 🎓 4th Year **AI Student** at Damascus University — Faculty of Information Technology Engineering.
+* 🔭 Delivered apps in real estate, sports, medical, and e-commerce.
+* 🌱 Passionate about clean code, clean architecture, and continuous learning.
+* 📫 How to reach me: [alaishatmohammad@gmail.com](alaishatmohammad@gmail.com)
+* ⚡ Fun fact: I’m a bit of a **perfectionist** — always chasing the perfect solution.
