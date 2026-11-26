@@ -5,7 +5,7 @@
 
 ### Hi, I'm Mohammad 👋
 
-🐝 Mobile Engineer at **[BeeOrder](https://www.beeorder.com)**, a food-ordering app in Syria. I build the customer app with **Flutter** and **Android (Kotlin)**, and work on product & data for growth and retention.
+🐝 Mobile Engineer at **[BeeOrder](https://www.beeorder.com)**, the leading food-ordering app in Syria. I build the customer app with **Flutter** and **Android (Kotlin)**, and work on product & data for growth and retention.
 
 🎓 5th Year AI Student at Damascus University — Faculty of Information Technology Engineering.
 
